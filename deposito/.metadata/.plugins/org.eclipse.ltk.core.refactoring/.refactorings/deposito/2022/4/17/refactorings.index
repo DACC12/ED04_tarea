@@ -1,0 +1,8 @@
+1651082915458	Delete element
+1651083269334	Rename local variable 'miCuenta'
+1651083291804	Extract method 'operativa_cuenta'
+1651083312255	Encapsulate field 'nombre'
+1651083320307	Encapsulate field 'cuenta'
+1651083331417	Encapsulate field 'saldo'
+1651083340219	Encapsulate field 'tipoInterés'
+1651083372454	Change method 'operativa_cuenta'
